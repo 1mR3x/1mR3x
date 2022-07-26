@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/craciu25_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="craciu25_yt" height="30" width="40" /></a>
-<a href="https://instagram.com/craciu25_yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="craciu25_yt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/craciu25 yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="craciu25 yt" height="30" width="40" /></a>
+<a href="https://twitter.com/elonmusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="craciu25_yt" height="30" width="40" /></a>
+<a href="https://instagram.com/elonmusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="craciu25_yt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/elonmusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="craciu25 yt" height="30" width="40" /></a>
 <a href="https://discord.gg/WPx2Wadn3J" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WPx2Wadn3J" height="30" width="40" /></a>
 </p>
 
