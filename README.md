@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 1mR3x</h1>
 <h3 align="center">A spanish batch programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=craciu25yt&label=Profile%20views&color=0e75b6&style=flat" alt="craciu25yt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1mR3x&label=Profile%20views&color=0e75b6&style=flat" alt="1mR3x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/elonmusk" target="blank"><img src="https://img.shields.io/twitter/follow/elonmusk?logo=twitter&style=for-the-badge" alt="elonmusk" /></a> </p>
 
