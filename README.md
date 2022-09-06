@@ -18,4 +18,4 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craciu25yt&show_icons=true&theme=dark&locale=en" alt="craciu25yt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImRex_&show_icons=true&theme=dark&locale=en" alt="ImRex_" /></p>
