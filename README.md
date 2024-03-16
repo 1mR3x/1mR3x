@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm vladik</h1>
+<h3 align="center">A spanish Python Dev</h3>
 
-<!--
-**1mR3x/1mR3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1mR3x&label=Profile%20views&color=0e75b6&style=flat" alt="1mR3x" /> </p>
 
-Here are some ideas to get you started:
+<div align="center" style="margin-bottom:40px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>- 🌱 I’m currently learning <b>Python</b>.</p>
+
+</div>
+<p align="center">
+  <a href="https://discord.com/users/1059998973299011605">
+    <img align="center" src="https://lanyard.cnrad.dev/api/1059998973299011605?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="vladik.dll"/>
+  </a>
+</p>
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=1mR3x&show_icons=true&theme=dark&locale=en" alt="1mR3x" />
+</p>
