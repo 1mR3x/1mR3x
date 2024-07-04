@@ -9,8 +9,8 @@
 
 </div>
 <p align="center">
-  <a href="https://discord.com/users/1059998973299011605">
-    <img align="center" src="https://lanyard.cnrad.dev/api/1059998973299011605?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="vl.adii06_"/>
+  <a href="https://discord.com/users/1226787937736331336">
+    <img align="center" src="https://lanyard.cnrad.dev/api/1226787937736331336?&animated=true&idleMessage=Idleing&borderRadius=25px)" alt="vl.adii06_"/>
   </a>
 </p>
 
